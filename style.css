@@ -3,7 +3,9 @@ body {
     margin: 40px;
     background: #fafafa;
     color: #222;
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybDdvbGlzdmc2dWtqNGt3ejBrenV6bmlmZTBscDR6ejU3ZDZwbW0wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pAP3DXkC1h6qaD0PLA/giphy.gif");
 }
+
 
 h1 {
     color: #007acc;
